@@ -1,7 +1,7 @@
 Ritesh
 CONTENTS OF THIS FILE
 ---------------------
-
+harish made changes.
  * About Drupal
  * Configuration and features
  * Installation profiles
