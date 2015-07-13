@@ -1,7 +1,7 @@
 Ritesh Manek
 CONTENTS OF THIS FILE
 ---------------------
-harish made changes.
+harish made changes.Even I did.
  * About Drupal
  * Configuration and features
  * Installation profiles
