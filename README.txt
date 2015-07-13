@@ -1,6 +1,6 @@
 Ritesh Manek
-CONTENTS OF THIS FILE
----------------------
+Ritesh Manek
+Ritesh Manek
 harish made changes.Even I did.
  * About Drupal
  * Configuration and features
